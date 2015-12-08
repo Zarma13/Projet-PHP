@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="style.css" media="all"/>
+		<title>Accueil</title>
+	</head>
+	<body>
+		<header>
+			
+		</header>
+		<main>
+
+		</main>
+		<footer>
+			<p>Recette de BG v0 - Copyright - All rights reserved</p>
+		</footer>
+	</body>
+</html>
