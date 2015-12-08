@@ -7,6 +7,7 @@
 		<title>iRecipe</title>
 	</head>
 
+<<<<<<< HEAD:application/views/layout.tpl.html
 	<body class="container-fluid">
 		<header class="row">
 			{include '../layout/layout_entete.inc.tpl'}
@@ -24,3 +25,21 @@
 		</footer>
 	</body>
 </html>
+=======
+<body class="container-fluid">
+	<header class="row">
+		{include '../layout/layout_entete.inc.tpl'}
+		{if !empty($SESSION)}
+			{include '../nav/nav_membre.inc.tpl'}
+		{else}
+			{include '../nav/nav.inc.tpl'}
+		{/if}
+	</header>
+	<main class="row">
+		{block name=main_content}{/block}
+	</main>
+	<footer class="row">
+		{include '../layout/layout_pied.inc.tpl'}
+	</footer>
+</body>
+>>>>>>> origin/master:application/views/layout.tpl
