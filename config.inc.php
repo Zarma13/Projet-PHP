@@ -2,7 +2,7 @@
 $config['bdd'] = [
 	'dsn' => 'mysql:host=mysql.hostinger.fr; dbname=u496787922_dbh;charset=utf8',
 	'user' => 'u496787922_admin',
-	'pwd' => 'SJzEeqLb2HHeNYVV'
+	'pwd' => 'pz4aSzlkUR'
 ];
 
 try{
