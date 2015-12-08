@@ -1,7 +1,7 @@
 <?php
 $config['bdd'] = [
-	'dsn' => 'mysql:host=localhost; dbname=recette;charset=utf8',
-	'user' => 'u_recette',
+	'dsn' => 'mysql:host=mysql.hostinger.fr; dbname=u496787922_dbh;charset=utf8',
+	'user' => 'u496787922_admin',
 	'pwd' => 'SJzEeqLb2HHeNYVV'
 ];
 

@@ -1,6 +1,6 @@
 <?php 
 session_start();
-require_once('application/libraries/smarty-3.1.27/libs/Smarty.class.php');
+require_once('application/libraries/Smarty-3.1.27/libs/Smarty.class.php');
 require_once('config.inc.php');
 $smarty = new Smarty;
 $smarty->getVariable('catching') -> true;
